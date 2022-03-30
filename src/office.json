@@ -2,7 +2,7 @@
   { "country": "USA", "city": ["San Fransico", "Newyork"] },
   { "country": "Nigeria", "city": ["Lagos"] },
   { "country": "Pakistan", "city": ["Karachi"] },
-  { "country": "Colimbia", "city": ["Bogota"] },
+  { "country": "Colombia", "city": ["Bogota"] },
   { "country": "England", "city": ["London"] },
   { "country": "India", "city": ["Mumbai"] },
   { "country": "Kenya", "city": ["Nairobi"] }
