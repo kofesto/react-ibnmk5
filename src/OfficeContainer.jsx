@@ -15,15 +15,15 @@ function OfficeContainer() {
   console.log(nigeria)
   return (
   <>
-  <div className="country">
-    <div>
+  <div>
+    <div className="country">
       <span>
         <h2>Nigeria</h2>
       </span>
-      <button className="show-cities" onClick={()=>ng()}>Show</button>
+      <button className="show-city" onClick={()=>ng()}>Show</button>
     </div>
-    <div>USA<button>show</button></div>
-    <div>Kenya<button>show</button></div>
+    <div className="country">USA<button className="show-city">show</button></div>
+    <div className="country">Kenya<button className="show-city">show</button></div>
   </div>
   </>
   );

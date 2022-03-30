@@ -1,3 +1,11 @@
 h1, p {
   font-family: Lato;
 }
+.country{
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+}
+.show-city{
+  height: 40px;
+}
